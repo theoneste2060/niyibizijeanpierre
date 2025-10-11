@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://niyibizijeanpierre.rw/sitemap.xml
