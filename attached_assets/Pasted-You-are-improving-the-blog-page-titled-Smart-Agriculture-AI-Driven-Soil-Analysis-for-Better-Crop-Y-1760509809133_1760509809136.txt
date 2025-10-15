@@ -1,0 +1,107 @@
+You are improving the blog page titled “Smart Agriculture: AI-Driven Soil Analysis for Better Crop Yields” for NIYIBIZI Jean Pierre,
+Geotechnical Engineer, Researcher & CEO of GEO-HOME SERVICES LTD (Rwanda).
+
+The site is static (HTML/CSS/JS) and hosted on GitHub Pages.
+I have already provided blog-ai-driven-soil-analysis.html.
+Now, improve it visually and structurally using the following image plan and layout adjustments.
+
+Image Integration
+
+Insert these images in the following locations and add descriptive alt text for SEO:
+
+Hero Section (top):
+./assets/img/blog-ai-soil-analysis/ai-soil-analysis-rwanda.jpg
+Alt: “Farmer in Rwanda using soil sensor and tablet for AI-driven analysis.”
+
+Under ‘The Science Behind AI-Driven Soil Analysis’:
+./assets/img/blog-ai-soil-analysis/soil-sensor-device.jpg
+Alt: “Close-up of soil sensor measuring moisture and nutrients.”
+
+Under ‘How It Works in Practice’:
+./assets/img/blog-ai-soil-analysis/machine-learning-dashboard.jpg
+Alt: “AI dashboard analyzing soil data for crop recommendations.”
+
+Between ‘Benefits for Farmers’ and ‘Future of Smart Agriculture in Rwanda’:
+./assets/img/blog-ai-soil-analysis/geohome-lab-analysis.jpg
+Alt: “GEO-HOME SERVICES LTD field testing and soil sampling.”
+
+End of Article / Before Footer:
+./assets/img/blog-ai-soil-analysis/rwanda-farmland-drone.jpg
+Alt: “Aerial view of Rwandan farmlands showcasing precision agriculture.”
+
+Each image should:
+
+Be centered or span full width with max-width: 100%; height: auto; margin: 20px 0; border-radius: 6px;
+
+Include <figure> and <figcaption> for professional presentation.
+
+Content & Layout Enhancements
+
+Add subtle section dividers or horizontal rules between major sections.
+
+Increase line spacing (1.7em) for readability.
+
+Add a highlighted quote box style for the GEO-HOME SERVICES LTD quote.
+
+Apply a light box-shadow on images for depth.
+
+Use a two-column layout for the “How It Works” steps on desktop view.
+
+Make sure the blog is fully responsive and images resize gracefully on mobile.
+
+SEO & Accessibility
+
+Confirm every image includes descriptive alt text.
+
+Keep only one <h1> tag (the article title).
+
+Ensure each section uses logical heading hierarchy (H2 > H3 > H4).
+
+Maintain schema.org markup and meta tags.
+
+Keep file paths relative for GitHub Pages (./assets/...).
+
+Output Expected
+
+Updated HTML with all <figure> image tags and improved formatting.
+
+Minimal CSS additions (optional inline or extend /assets/css/style.css with .blog-image and .quote-box).
+
+Ensure mobile responsiveness and image optimization (<200KB).
+
+Optional CSS Additions (if creating a blog.css section)
+.blog-article img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 20px 0;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.blog-article figure {
+  text-align: center;
+  margin: 25px 0;
+}
+
+.blog-article figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 8px;
+  font-style: italic;
+}
+
+.quote-box {
+  background: #f2f7fb;
+  border-left: 5px solid #2E86C1;
+  padding: 15px 20px;
+  margin: 25px 0;
+  font-style: italic;
+  color: #333;
+}
+
+Goal
+
+Make the blog visually engaging and professional,
+with balanced imagery, smooth reading flow, and clear storytelling that highlights
+Rwanda’s innovation in AI-driven agriculture and GEO-HOME SERVICES LTD’s leadership.
