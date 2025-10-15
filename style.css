@@ -940,6 +940,94 @@ section h2 {
   flex-wrap: wrap;
 }
 
+/* Enhanced Blog Image Styles */
+.blog-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 20px 0;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.blog-article figure {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.blog-article figcaption {
+  font-size: 0.9em;
+  color: #7F8C8D;
+  margin-top: 10px;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.blog-hero-figure {
+  margin: 30px 0 40px 0;
+}
+
+/* Quote Box */
+.quote-box {
+  background: linear-gradient(135deg, #F2F7FB, #E8F0F7);
+  border-left: 5px solid #2E86C1;
+  padding: 20px 25px;
+  margin: 30px 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.quote-box p {
+  font-style: italic;
+  color: #1B2631;
+  font-size: 1.1em;
+  line-height: 1.7;
+  margin-bottom: 10px;
+}
+
+.quote-box cite {
+  display: block;
+  text-align: right;
+  color: #2E86C1;
+  font-weight: 600;
+  font-style: normal;
+  margin-top: 10px;
+}
+
+/* Section Divider */
+.section-divider {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #E8F0F7, transparent);
+  margin: 35px 0;
+}
+
+/* Workflow Steps */
+.workflow-steps ol {
+  background: #F8F9F9;
+  border-radius: 8px;
+  padding: 25px 25px 25px 45px;
+  margin: 20px 0;
+}
+
+.workflow-steps li {
+  margin-bottom: 15px;
+  line-height: 1.7;
+}
+
+.workflow-steps li:last-child {
+  margin-bottom: 0;
+}
+
+/* Enhanced Article Content Spacing */
+.article-content {
+  line-height: 1.7;
+}
+
+.article-content p {
+  margin-bottom: 1.3rem;
+}
+
 @media (max-width: 768px) {
   .article-header h1 {
     font-size: 1.8rem;
@@ -957,5 +1045,13 @@ section h2 {
   .article-footer a {
     width: 100%;
     text-align: center;
+  }
+  
+  .workflow-steps ol {
+    padding: 20px 20px 20px 35px;
+  }
+  
+  .quote-box {
+    padding: 15px 20px;
   }
 }
