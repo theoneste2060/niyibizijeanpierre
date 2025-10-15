@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Agriculture: AI-Driven Soil Analysis for Better Crop Yields | NIYIBIZI Jean Pierre</title>
+  <meta name="description" content="Explore how AI and machine learning are transforming soil analysis and crop management in Rwanda, improving yields and promoting sustainable agriculture." />
+  <meta name="author" content="NIYIBIZI Jean Pierre" />
+  
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Smart Agriculture: AI-Driven Soil Analysis for Better Crop Yields" />
+  <meta property="og:description" content="Learn how AI-driven soil analysis is transforming agriculture and crop yields in Rwanda and beyond." />
+  <meta property="og:image" content="./assets/img/ai-soil-analysis-rwanda.jpg" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://niyibizijeanpierre.rw/blog-ai-driven-soil-analysis.html" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Smart Agriculture: AI-Driven Soil Analysis for Better Crop Yields" />
+  <meta name="twitter:description" content="How AI and machine learning optimize soil conditions for better crop yields in Rwanda and beyond." />
+  <meta name="twitter:image" content="./assets/img/ai-soil-analysis-rwanda.jpg" />
+
+  <!-- JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Smart Agriculture: AI-Driven Soil Analysis for Better Crop Yields",
+    "image": "https://niyibizijeanpierre.rw/assets/img/ai-soil-analysis-rwanda.jpg",
+    "author": {
+      "@type": "Person",
+      "name": "NIYIBIZI Jean Pierre",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "GEO-HOME SERVICES LTD"
+      }
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "GEO-HOME SERVICES LTD",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://niyibizijeanpierre.rw/assets/img/logo.png"
+      }
+    },
+    "datePublished": "2025-10-11",
+    "description": "Explore how AI and machine learning are transforming soil analysis and crop management in Rwanda, improving yields and promoting sustainable agriculture."
+  }
+  </script>
+
+  <!-- Link to your main stylesheet -->
+  <link rel="stylesheet" href="./assets/css/style.css" />
+  <link rel="icon" type="image/x-icon" href="./assets/img/favicon.ico" />
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="navbar">
+    <div class="container">
+      <h1 class="logo"><a href="index.html">NIYIBIZI Jean Pierre</a></h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="publications.html">Publications</a></li>
+          <li><a href="media.html">Media</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Blog Article -->
+  <section class="blog-article container">
+    <img src="./assets/img/ai-soil-analysis-rwanda.jpg" alt="AI-driven soil analysis in Rwanda" class="blog-hero-image" />
+
+    <h2>Smart Agriculture: AI-Driven Soil Analysis for Better Crop Yields</h2>
+    <p class="blog-meta">
+      <strong>Author:</strong> NIYIBIZI Jean Pierre |
+      <strong>Date:</strong> October 11, 2025 |
+      <strong>Category:</strong> Agriculture Tech, AI, Soil Science
+    </p>
+
+    <p>Agriculture remains the backbone of Rwanda’s economy, employing over 60% of the population. Yet, many farmers continue to face challenges such as declining soil fertility, unpredictable rainfall, and inefficient use of fertilizers.</p>
+
+    <p>As technology continues to evolve, <strong>Artificial Intelligence (AI)</strong> is emerging as a powerful tool to transform traditional agriculture into a <strong>data-driven and sustainable system</strong>. One of the most impactful innovations is <strong>AI-driven soil analysis</strong> — using machine learning algorithms to understand soil behavior and recommend smarter agricultural decisions.</p>
+
+    <h3>The Science Behind AI-Driven Soil Analysis</h3>
+    <p>Traditional soil tests are expensive, time-consuming, and limited in coverage. With AI and machine learning models, soil health can now be predicted faster and more accurately. These models can analyze soil texture, moisture, pH, and historical crop data to suggest the best cultivation strategies.</p>
+
+    <ul>
+      <li>Soil texture and nutrient content</li>
+      <li>Moisture levels and pH balance</li>
+      <li>Satellite and sensor data correlations</li>
+      <li>Fertilizer and irrigation recommendations</li>
+    </ul>
+
+    <p>By processing this data, AI models can <strong>recommend the right crop</strong>, <strong>predict fertilizer needs</strong>, and even <strong>suggest irrigation schedules</strong> based on soil and weather patterns.</p>
+
+    <h3>How It Works in Practice</h3>
+    <p>At <strong>GEO-HOME SERVICES LTD</strong>, we’re exploring the integration of <strong>AI and geotechnical engineering</strong> to improve agricultural soil assessment in Rwanda:</p>
+    <ol>
+      <li><strong>Soil Data Collection:</strong> Using portable sensors and GPS mapping to gather soil metrics.</li>
+      <li><strong>Machine Learning Analysis:</strong> Algorithms trained on local data to identify patterns and classify soils.</li>
+      <li><strong>Predictive Recommendations:</strong> Crop selection, fertilizer needs, and irrigation timing.</li>
+      <li><strong>Continuous Learning:</strong> System accuracy improves with each planting season.</li>
+    </ol>
+
+    <h3>Benefits for Farmers and Researchers</h3>
+    <table class="blog-table">
+      <tr><th>Area</th><th>Impact</th></tr>
+      <tr><td>Productivity</td><td>Increases crop yields with targeted recommendations.</td></tr>
+      <tr><td>Cost Efficiency</td><td>Reduces laboratory testing and fertilizer waste.</td></tr>
+      <tr><td>Sustainability</td><td>Promotes balanced resource use for long-term soil health.</td></tr>
+      <tr><td>Research Advancement</td><td>Generates valuable soil-climate datasets for R&D.</td></tr>
+    </table>
+
+    <h3>The Future of Smart Agriculture in Rwanda</h3>
+    <p>Rwanda’s agricultural innovation will depend on strong collaboration between engineers, agronomists, and data scientists. With affordable sensors and better data access, AI-driven tools can become part of daily farming practices — from smallholders to cooperatives.</p>
+
+    <p>The potential extends beyond Rwanda. East Africa’s diverse soil profiles make it an ideal region to scale AI-based agricultural solutions that enhance food security and environmental sustainability.</p>
+
+    <h3>Conclusion</h3>
+    <p>AI-driven soil analysis represents a new chapter in smart and sustainable agriculture. By combining local knowledge, modern sensors, and intelligent algorithms, Rwanda can lead Africa’s transition toward precision farming.</p>
+
+    <blockquote>“At GEO-HOME SERVICES LTD, we believe that the soil beneath our feet holds the data we need to feed the future.”</blockquote>
+
+    <p>With AI and engineering innovation, every decision — from planting to harvesting — can be smarter, cleaner, and more productive.</p>
+
+    <p><strong>Keywords:</strong> AI in Agriculture Rwanda, Smart Farming, Soil Fertility Analysis, Machine Learning for Crops, Sustainable Agriculture, Geotechnical AI Rwanda</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2025 NIYIBIZI Jean Pierre | GEO-HOME SERVICES LTD</p>
+    <p><a href="index.html">Back to Home</a></p>
+  </footer>
+
+</body>
+</html>
