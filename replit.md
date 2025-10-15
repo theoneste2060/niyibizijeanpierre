@@ -4,7 +4,7 @@
 
 This is a professional static website for **NIYIBIZI Jean Pierre**, a Geotechnical Engineer, Researcher & AI Innovator, and Owner & CEO of **GEO-HOME SERVICES LTD** in Rwanda.
 
-**Last Updated**: October 11, 2025
+**Last Updated**: October 15, 2025
 
 ## 🎯 Purpose
 
@@ -26,23 +26,25 @@ The website showcases:
 ### File Structure
 ```
 /
-├── index.html                  # Homepage with hero, Quick Facts, and featured content
-├── about.html                  # Professional background and company info
-├── projects.html               # Portfolio of engineering and AI projects
-├── publications.html           # Research papers and publications
-├── media.html                  # Image gallery and press resources
-├── contact.html                # Contact form and information
-├── blog-ai-geotech.html        # Blog post on AI in geotechnical engineering
-├── style.css                   # Main stylesheet with animations and responsive design
-├── navbar.js                   # Mobile menu toggle and scroll animations
-├── logo.jpg                    # Logo/profile image
-├── server.js                   # Node.js production server with security
-├── sitemap.xml                 # SEO sitemap
-├── robots.txt                  # Search engine directives
-├── README.md                   # Detailed documentation
-├── FAVICON_INSTRUCTIONS.md     # Favicon creation guide
-├── .gitignore                  # Git ignore rules
-└── replit.md                   # This file
+├── index.html                          # Homepage with hero, Quick Facts, and featured content
+├── about.html                          # Professional background and company info
+├── projects.html                       # Portfolio of engineering and AI projects
+├── publications.html                   # Research papers and publications
+├── blog.html                           # Blog listing page (main blog page)
+├── blog-ai-geotech.html                # Blog post: AI in geotechnical engineering
+├── blog-ai-driven-soil-analysis.html   # Blog post: AI-driven soil analysis
+├── media.html                          # Image gallery and press resources
+├── contact.html                        # Contact form and information
+├── style.css                           # Main stylesheet with animations, responsive design, and blog styles
+├── navbar.js                           # Mobile menu toggle and scroll animations
+├── logo.jpg                            # Logo/profile image
+├── server.js                           # Node.js production server with security
+├── sitemap.xml                         # SEO sitemap (includes blog pages)
+├── robots.txt                          # Search engine directives
+├── README.md                           # Detailed documentation
+├── FAVICON_INSTRUCTIONS.md             # Favicon creation guide
+├── .gitignore                          # Git ignore rules
+└── replit.md                           # This file
 ```
 
 ## 🎨 Design System
@@ -66,6 +68,14 @@ The website showcases:
 - Professional gradient design with engineering blue theme
 
 ## 🔧 Recent Changes
+
+### October 15, 2025 - Blog Section Added
+- ✅ **Blog Menu**: Added "Blog" navigation item to all pages
+- ✅ **Blog Listing Page**: Created blog.html as the main blog page
+- ✅ **New Blog Post**: Published "Smart Agriculture: AI-Driven Soil Analysis for Better Crop Yields"
+- ✅ **Blog Styling**: Added comprehensive CSS styles for blog cards, articles, and responsive design
+- ✅ **SEO Updates**: Updated sitemap.xml to include all blog pages
+- ✅ **Navigation**: Integrated blog seamlessly into existing navigation structure
 
 ### October 11, 2025 - Server Migration & Mobile Menu Fix
 - ✅ **Node.js Server**: Migrated from Python to Node.js HTTP server with security hardening
